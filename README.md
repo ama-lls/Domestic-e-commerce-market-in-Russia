@@ -11,10 +11,9 @@
 
 - **Power BI Desktop**
 - **MySQL**
-- **SQLAlchemy**
 - **Python**
 - **Pandas**
-
+- **SQLAlchemy**
 
 ## Общий вывод
 
